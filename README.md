@@ -56,3 +56,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mr-j-list&theme=onedark_duo&border=35E9F5&ring=D142A6&fire=DD2727&stroke=42D1B5&currStreakNum=D1425E&sideNums=D1425E&currStreakLabel=D1425E&sideLabels=3F29B7&dates=B73F29)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-j-list&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-j-list&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
