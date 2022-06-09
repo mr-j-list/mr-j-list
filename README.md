@@ -17,6 +17,8 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
+<hr>
+
 <div align="center">
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -47,5 +49,10 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
+<hr>
 -->
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mr-j-list&theme=onedark_duo&border=35E9F5&ring=D142A6&fire=DD2727&stroke=42D1B5&currStreakNum=D1425E&sideNums=D1425E&currStreakLabel=D1425E&sideLabels=3F29B7&dates=B73F29)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mr-j-list=anuraghazra&show_icons=true&theme=tokyonight)
